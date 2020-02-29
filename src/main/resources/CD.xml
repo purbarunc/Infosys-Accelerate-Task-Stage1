@@ -1,0 +1,14 @@
+<listOfCD>
+	<CD>
+		<id>1</id>
+		<name>AA</name>
+		<price>300</price>
+		<artist>BB</artist>
+	</CD>
+	<CD>
+		<id>2</id>
+		<name>CC</name>
+		<price>400</price>
+		<artist>DD</artist>
+	</CD>
+</listOfCD>
